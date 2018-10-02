@@ -13,5 +13,6 @@ The Bootcamp Companion App was inspired by our desire to produce a product with 
 ### App
 The front end of the App was made using Vue components and Vue routers. The final deployment uses Heroku.
 
-
+### Server
 The server utilizes Express for the server and PostgreSQL for the database.
+Link to server repo: https://github.com/team-denim/server
